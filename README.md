@@ -1,1 +1,2 @@
-# tugas-pemrograman
+Saya akan mencoba menjelaskan tentang tugas membuat program untuk menghitung dan menampilkan data nilai mahasiswa dengan menggunakan list dan module texttable. Dengan ketentuan , tugas  30%, uts 35%, dan uas  35%. Adapun yang di input ialah Nama, Nim, Nilai tugas, Nilai uts, Nilai uas. Yang outputnya berupa table dengan menggunakan module texttable. Module texttable burguna untuk merapihkan output table yang rapi. 
+	Untuk kodingnya saya menggunakan Python list metods. 
